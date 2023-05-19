@@ -1,9 +1,0 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>Fernando Mandeur</title>
-</head>
-<body>
-	Contenido de la página
-</body>
-</html>
