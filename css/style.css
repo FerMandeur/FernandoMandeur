@@ -78,19 +78,23 @@ p, a, li, h1, h2, h3, h4, h5, h6{
 	width: 1200px;
 	margin: auto;
 	overflow: hidden;
-	border: 1px solid red;
+	/*border: 1px solid red;*/
 }
 
 .plaza img{
 	float: left;
-	
+}
+.plaza h3{
+	color: black;
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: -5px
+
 }
 
 .plaza1{
-	margin: 200px, 20px, 20px 20px;
 }
 .plaza2{
-	margin: 200px, 20px, 20px 20px;
 }
 
 
