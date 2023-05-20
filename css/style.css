@@ -61,5 +61,6 @@ p, a, li, h1, h2, h3, h4, h5, h6{
 	overflow: hidden;
 	background-image:url("../img/parallax.jpg");
 	background-attachment:fixed;
+	background-size: cover;
 	
 }
