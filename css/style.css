@@ -56,14 +56,19 @@ p, a, li, h1, h2, h3, h4, h5, h6{
 
 .menu ul li ul li {
     display: block;
-    margin: 0;
+    margin: 8px 0; /* Espaciado vertical entre elementos del menú desplegable */
 }
 
 .menu ul li ul li a {
     color: #333; /* Color del texto del menú desplegable */
     text-decoration: none; /* Quitar subrayado de los enlaces */
+	display: block; /* Hace que los enlaces ocupen todo el ancho del menú */
+    padding: 8px 15px; /* Espaciado interno de los enlaces */
+    transition: background-color 0.3s; /* Transición suave para el color de fondo */
 }
-
+.menu ul li ul li a:hover {
+    background-color: #f0f0f0; /* Cambia el color de fondo al pasar el mouse */
+}
 
 /*PARALLAX*/
 .parallax{
