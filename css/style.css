@@ -10,6 +10,7 @@ p, a, li, h1, h2, h3, h4, h5, h6{
 .cabecera {
     background-color: #333; /* Color de fondo de la cabecera */
     padding: 20px 0; /* Espaciado interno de la cabecera */
+    text-align: center; /* Centrar el contenido horizontalmente */
 }
 
 /* Estilos para el menú principal */
@@ -20,7 +21,7 @@ p, a, li, h1, h2, h3, h4, h5, h6{
 }
 
 .menu ul li {
-    display: inline-block;
+    display: inline-block; /* Mostrar elementos del menú en línea */
     position: relative;
     margin-right: 20px; /* Espaciado entre elementos del menú */
 }
@@ -55,7 +56,6 @@ p, a, li, h1, h2, h3, h4, h5, h6{
     color: #333; /* Color del texto del menú desplegable */
     text-decoration: none; /* Quitar subrayado de los enlaces */
 }
-
 
 
 /*PARALLAX*/
