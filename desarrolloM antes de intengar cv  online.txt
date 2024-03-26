@@ -161,41 +161,25 @@
 </section>
 
 <section class="header11 cid-rfHqOs3Csd" id="header11-5">
+
+    <!-- Block parameters controls (Blue "Gear" panel) -->
+    
+    <!-- End block parameters -->
+
+    
     <div class="container align-left">
         <div class="media-container-column mbr-white col-md-12">
+            
             <h1 class="mbr-section-title py-3 mbr-fonts-style display-1"><strong>C.V.</strong></h1>
-            <div class="mbr-text py-3 mbr-fonts-style display-5">
-                <p><strong>Información Personal:</strong></p>
-                <p>Nombre: Fernando Mandeur</p>
-                <p>Fecha de nacimiento: DD/MM/AAAA</p>
-                <p>Correo electrónico: ejemplo@mail.com</p>
-                <!-- Agrega más información personal según sea necesario -->
-
-                <p><strong>Experiencia Laboral:</strong></p>
-                <p>
-                    <strong>Empresa XYZ</strong><br>
-                    Cargo: Desarrollador Web<br>
-                    Período: MM/AAAA - MM/AAAA<br>
-                    Descripción: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                </p>
-                <!-- Agrega más experiencias laborales -->
-
-                <p><strong>Educación:</strong></p>
-                <p>
-                    <strong>Universidad ABC</strong><br>
-                    Grado: Licenciatura en Informática<br>
-                    Período: MM/AAAA - MM/AAAA<br>
-                    Descripción: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                </p>
-                <!-- Agrega más información educativa -->
-
-                <!-- Puedes seguir añadiendo secciones según sea necesario -->
-
-            </div>
+            <p class="mbr-text py-3 mbr-fonts-style display-5">
+			 	<a href="CV1.pdf" target="_blank">Descargar mi CV</a> 
+			</p>
+            
         </div>
     </div>
-</section>
 
+    
+</section>
 
 <section class="cid-rfHtarFKrl" id="image1-b">
 
