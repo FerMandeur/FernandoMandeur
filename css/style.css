@@ -37,9 +37,6 @@ p, a, li, h1, h2, h3, h4, h5, h6{
     padding: 10px; /* Espaciado interno de los enlaces */
 }
 
-.menu ul li:hover ul {
-    display: block;
-}
 
 /* Estilos para el menú desplegable */
 .menu ul li ul {
@@ -53,7 +50,9 @@ p, a, li, h1, h2, h3, h4, h5, h6{
 	z-index: 999; /* Asegura que el menú desplegable esté en la parte superior */
 
 }
-
+.menu ul li:hover ul {
+    display: block;
+}
 .menu ul li ul li {
     display: block;
     margin: 8px 0; /* Espaciado vertical entre elementos del menú desplegable */
