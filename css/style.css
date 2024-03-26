@@ -12,7 +12,12 @@ p, a, li, h1, h2, h3, h4, h5, h6{
     padding: 20px 0; /* Espaciado interno de la cabecera */
     text-align: center; /* Centrar el contenido horizontalmente */
 }
-
+.menu {
+    position: absolute; /* Ajusta la posición del menú */
+    top: 0; /* Posiciona el menú en la parte superior */
+    left: 0; /* Posiciona el menú en la parte izquierda */
+    z-index: 999; /* Asegura que el menú esté en la parte superior */
+}
 /* Estilos para el menú principal */
 .menu ul {
     list-style: none;
