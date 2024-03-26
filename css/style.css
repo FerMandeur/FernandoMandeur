@@ -50,6 +50,18 @@ p, a, li, h1, h2, h3, h4, h5, h6{
 	z-index: 999; /* Asegura que el menú desplegable esté en la parte superior */
 
 }
+.menu ul li ul.multiple-columns {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background-color: #fff; /* Color de fondo del menú desplegable */
+    padding: 10px;
+    border: 1px solid #ccc; /* Borde del menú desplegable */
+    z-index: 999; /* Asegura que el menú desplegable esté en la parte superior */
+    width: 400px; /* Ancho del menú desplegable de varias columnas */
+    /* Otros estilos según sea necesario */
+}
 .menu ul li:hover ul {
     display: block;
 }
