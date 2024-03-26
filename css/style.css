@@ -13,7 +13,7 @@ p, a, li, h1, h2, h3, h4, h5, h6{
     text-align: center; /* Centrar el contenido horizontalmente */
 }
 .menu {
-    position: absolute; /* Ajusta la posición del menú */
+    position: relative; /* Ajusta la posición del menú */
     top: 0; /* Posiciona el menú en la parte superior */
     left: 0; /* Posiciona el menú en la parte izquierda */
     z-index: 999; /* Asegura que el menú esté en la parte superior */
@@ -50,6 +50,8 @@ p, a, li, h1, h2, h3, h4, h5, h6{
     background-color: #fff; /* Color de fondo del menú desplegable */
     padding: 10px;
     border: 1px solid #ccc; /* Borde del menú desplegable */
+	z-index: 999; /* Asegura que el menú desplegable esté en la parte superior */
+
 }
 
 .menu ul li ul li {
