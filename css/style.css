@@ -56,6 +56,8 @@ p, a, li, h1, h2, h3, h4, h5, h6{
 .menu ul li ul li {
     display: block;
     margin: 8px 0; /* Espaciado vertical entre elementos del menú desplegable */
+    border-bottom: 1px solid #000000; /* Línea de separación en la parte inferior */
+
 }
 
 .menu ul li ul li a {
