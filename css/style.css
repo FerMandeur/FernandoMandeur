@@ -77,28 +77,6 @@ p, a, li, h1, h2, h3, h4, h5, h6{
 	
 	
 }
-/*PLAZA DE COSAS*/
-.plaza{	
-	width: 1200px;
-	margin: auto;
-	overflow: hidden;
-	/*border: 1px solid red;*/
-}
 
-.plaza img{
-	float: left;
-}
-.plaza h3{
-	color: black;
-	text-align: center;
-	margin-top: 20px;
-	margin-bottom: -5px;
-
-}
-
-.plaza1{
-}
-.plaza2{
-}
 
 
