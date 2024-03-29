@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* Estilos para el apartado de seguimiento de redes sociales */
+.social-section {
+    padding: 20px 0;
+    background-color: #f8f9fa; /* Cambia el color de fondo según tus preferencias */
+}
+
+.social-icons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.social-icon {
+    margin: 0 10px; /* Espacio entre los iconos */
+}
+
+.social-icon img {
+    width: 40px; /* Tamaño de los iconos, ajusta según tus necesidades */
+    height: auto;
+}
